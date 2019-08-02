@@ -1,2 +1,2 @@
-learnin git
-making changes and new
+learning git
+making changes
